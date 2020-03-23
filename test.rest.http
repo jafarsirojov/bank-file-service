@@ -1,0 +1,55 @@
+POST http://localhost:9999/api/tokens
+Content-Type: application/json
+
+{
+  "username": "vasya",
+  "password": "hash"
+}
+
+> {% client.global.set("auth_token", response.body.token); %}
+
+###
+
+POST http://localhost:9999/api/tokens
+Content-Type: application/json
+
+{
+  "username": "vasya",
+  "password": "invalid"
+}
+
+###
+
+GET http://localhost:9999/api/users/me
+Authorization: Bearer {{auth_token}}
+
+###
+
+DELETE http://localhost:9999/api/users/1
+Authorization: Bearer {{auth_token}}
+
+###
+
+
+POST localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< ./hello.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< ./hello1.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< ./hello2.txt
+
+--WebAppBoundary--
+
+###

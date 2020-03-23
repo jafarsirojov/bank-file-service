@@ -1,0 +1,358 @@
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello1.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello2.txt
+--WebAppBoundary--
+
+<> 2020-03-17T054642.200.json
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello1.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello2.txt
+--WebAppBoundary--
+
+<> 2020-03-17T054628.200.json
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello1.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello2.txt
+--WebAppBoundary--
+
+<> 2020-03-17T054348.200.json
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello1.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello2.txt
+--WebAppBoundary--
+
+<> 2020-03-17T054229.200.json
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello1.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello2.txt
+--WebAppBoundary--
+
+<> 2020-03-17T021342.200.json
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello1.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello2.txt
+--WebAppBoundary--
+
+<> 2020-03-16T082803.200.json
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello.txt
+--WebAppBoundary--
+
+<> 2020-03-16T082735.200.json
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello.txt
+--WebAppBoundary--
+
+<> 2020-03-16T082548.200.json
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello.txt
+--WebAppBoundary--
+
+<> 2020-03-16T082529.200.json
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello.txt
+--WebAppBoundary--
+
+<> 2020-03-16T082507.200.json
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello.txt
+--WebAppBoundary--
+
+<> 2020-03-16T082451.200.json
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello.txt
+--WebAppBoundary--
+
+<> 2020-03-16T074511.200.json
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\goProjects\file-service\hello.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\Users\JaFaR\AppData\Local\Temp\http_request_input_file766.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello.txt"
+Content-Type: text/plain
+
+< C:\Users\JaFaR\AppData\Local\Temp\http_request_input_file10.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\JaFaR\AppData\Local\Temp\http_request_input_file6.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\JaFaR\AppData\Local\Temp\http_request_input_file3.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\JaFaR\AppData\Local\Temp\http_request_input_file432.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\JaFaR\AppData\Local\Temp\http_request_input_file11.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9997/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\JaFaR\AppData\Local\Temp\http_request_input_file4.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\JaFaR\AppData\Local\Temp\http_request_input_file8.txt
+--WebAppBoundary--
+
+###
+

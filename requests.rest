@@ -1,0 +1,22 @@
+GET http://localhost:9999/api/burgers
+Accept: application/json
+
+###
+
+POST http://localhost:9999/api/burgers
+Content-Type: application/json
+Accept: application/json
+
+{
+  "Id": 0,
+  "Name": "Лютый Воппер",
+  "Price": 15000
+}
+
+###
+
+DELETE http://localhost:9999/api/burgers/1
+Authorization: super-secret-token
+
+###
+
